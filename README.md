@@ -1,2 +1,2 @@
 # lab-agile-planning
-it contains fo agile planning
+it contains agile planning
